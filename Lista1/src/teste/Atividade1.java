@@ -2,6 +2,7 @@
 // até que 3 números pares sejam lidos
 // Imprima quantas vezes o laço precisou ser repetido
 // Use o Comando While
+// ᓚᘏᗢ
 
 package teste;
 
