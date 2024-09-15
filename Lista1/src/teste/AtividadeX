@@ -35,7 +35,8 @@ public class exercicio1 {
 		System.out.println("Insira o valor inteiro de Z: ");
 		int Z = Integer.parseInt(System.console().readLine());
 	
-		
+// prestar bastante atenção nessa parte
+
 		if (X + Y > Z && Y + Z > X && X + Z > Y) {
             System.out.println("Estes Valores podem formar lados de um triângulo");
             
